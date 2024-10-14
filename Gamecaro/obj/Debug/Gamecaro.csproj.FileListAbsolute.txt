@@ -1,0 +1,10 @@
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\bin\Debug\Gamecaro.exe.config
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\bin\Debug\Gamecaro.exe
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\bin\Debug\Gamecaro.pdb
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.csproj.AssemblyReference.cache
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.Form1.resources
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.Properties.Resources.resources
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.csproj.GenerateResource.cache
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.csproj.CoreCompileInputs.cache
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.exe
+D:\Môn kỳ 4\C#\Gamecaro\Gamecaro\obj\Debug\Gamecaro.pdb

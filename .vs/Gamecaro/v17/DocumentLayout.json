@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|solutionrelative:gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|solutionrelative:gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|d:\\m\u00F4n k\u1EF3 4\\c#\\gamecaro\\gamecaro\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|solutionrelative:gamecaro\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\gamecaro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C022BA-1C0C-49AF-85A5-0C721755EA5C}|Gamecaro\\Gamecaro.csproj|solutionrelative:gamecaro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chessboardmanager.cs",
+              "DocumentMoniker": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\chessboardmanager.cs",
+              "RelativeDocumentMoniker": "Gamecaro\\chessboardmanager.cs",
+              "ToolTip": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\chessboardmanager.cs",
+              "RelativeToolTip": "Gamecaro\\chessboardmanager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:40:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cons.cs",
+              "DocumentMoniker": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\cons.cs",
+              "RelativeDocumentMoniker": "Gamecaro\\cons.cs",
+              "ToolTip": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\cons.cs",
+              "RelativeToolTip": "Gamecaro\\cons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:17:46.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\Form1.cs",
+              "RelativeDocumentMoniker": "Gamecaro\\Form1.cs",
+              "ToolTip": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\Form1.cs",
+              "RelativeToolTip": "Gamecaro\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:52:45.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\Form1.cs",
+              "RelativeDocumentMoniker": "Gamecaro\\Form1.cs",
+              "ToolTip": "D:\\M\u00F4n k\u1EF3 4\\C#\\Gamecaro\\Gamecaro\\Form1.cs [Design]",
+              "RelativeToolTip": "Gamecaro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:14:39.211Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
